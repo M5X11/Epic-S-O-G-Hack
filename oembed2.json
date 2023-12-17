@@ -1,8 +1,0 @@
-{
-	"type": "rich",
-	"html": "
-		<iframe id=\"soggycat\" title=\"Soggy cat\" width=\"300\" height=\"200\"
-		src=\"https://www.soggy.cat\">
-		</iframe>
-		",
-}
